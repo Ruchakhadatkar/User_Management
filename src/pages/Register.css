@@ -1,0 +1,154 @@
+.app {
+  width: 100%;
+  margin: 0px;
+}
+.container {
+  width: 100%;
+  margin: 0px;
+}
+.heading {
+  text-align: center;
+  background-color: #2d88e4;
+}
+.heading p {
+  margin: 0px;
+  font-size: 21px;
+  padding-bottom: 10px;
+  padding-top: 6px;
+  font-weight: 700;
+  color: white;
+}
+.allUser {
+  margin: 75px 18%;
+  margin-bottom: 0px;
+  display: flex;
+  width: 108px;
+  height: 42px;
+  font-size: 16px;
+  text-align: center;
+  margin: 60px 20%;
+  margin-bottom: 20px;
+  padding: 8px 4px;
+  color: rgb(5, 6, 73);
+  cursor: pointer;
+  border-radius: 4px;
+  border: 1px solid #2d88e4;
+  border-right: 3px solid #2d88e4;
+  border-bottom: 3px solid #2d88e4;
+  background-color: white;
+}
+.symbolBack {
+  font-size: 22px;
+  margin: 0px;
+}
+.allUser p {
+  margin-right: 5px;
+  margin-top: 3px;
+  margin-left: 2px;
+}
+form {
+  text-align: center;
+  margin: 34px 25%;
+  border-top: 1px solid rgb(238, 231, 231);
+  border-left: 2px solid rgb(228, 224, 224);
+  border-right: 4px solid rgb(238, 231, 231);
+  border-bottom: 4px solid rgb(222, 220, 220);
+}
+.head h4 {
+  margin: 12px;
+  font-size: 26px;
+  margin-bottom: 0px;
+  color: rgb(7, 8, 77);
+}
+.head p {
+  margin: 6px;
+  font-size: 17px;
+  color: rgb(150, 147, 147);
+}
+.input {
+  display: block;
+  margin: 32px 26px;
+  text-align: center;
+}
+.input label {
+  display: block;
+  font-size: 15px;
+  margin-top: 28px;
+  text-align: left;
+  margin-left: 45px;
+  margin-bottom: 5px;
+  color: rgb(150, 147, 147);
+}
+.input input {
+  margin: 0px 38px;
+  width: 85%;
+  font-size: 17px;
+  border-radius: 2px;
+  height: 32px;
+  padding-top: 1px;
+  padding-left: 8px;
+  background-color: white;
+  border-radius: 4px;
+  border-color: rgb(150, 147, 147);
+}
+.gender {
+  display: flex;
+  margin: 4px 66px;
+  margin-top: 32px;
+}
+.gender p {
+  margin: 10px 5px;
+  font-size: 15px;
+  color: rgb(150, 147, 147);
+}
+.gender input {
+  margin: 10px 12%;
+  margin-right: 6px;
+  width: 14px;
+  height: 26px;
+}
+.gender label {
+  margin-top: 10px;
+  font-size: 17px;
+}
+.status {
+  display: flex;
+  margin: 18px 68px;
+}
+.status p {
+  margin: 10px 5px;
+  font-size: 15px;
+  color: rgb(150, 147, 147);
+}
+.status .active {
+  margin: 10px 13%;
+  margin-right: 6px;
+  width: 14px;
+  height: 26px;
+}
+.status .inactive {
+  margin: 10px 11%;
+  margin-right: 6px;
+  width: 14px;
+  height: 26px;
+}
+.status label {
+  margin-top: 10px;
+  font-size: 17px;
+}
+.saveBtn button {
+  width: 80%;
+  height: 36px;
+  margin-top: 14px;
+  margin-left: 68;
+  margin-bottom: 35px;
+  font-size: 18px;
+  background-color: #2d88e4;
+  color: white;
+  font-weight: 700;
+  border: none;
+  border-radius: 4px;
+  border-right: 3px solid rgb(8, 62, 142);
+  border-bottom: 3px solid rgb(8, 62, 142);
+  cursor: pointer;
+}

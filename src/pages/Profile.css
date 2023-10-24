@@ -1,0 +1,132 @@
+.homeBtn {
+  display: flex;
+  width: 108px;
+  height: 42px;
+  font-size: 16px;
+  text-align: center;
+  margin: 60px 23%;
+  margin-bottom: 50px;
+  padding: 8px 4px;
+  cursor: pointer;
+  border-radius: 4px;
+  border: 1px solid #2d88e4;
+  border-right: 3px solid #2d88e4;
+  border-bottom: 3px solid #2d88e4;
+  background-color: white;
+  color: rgb(7, 8, 77);
+}
+.homeBtn p {
+  margin-right: 20px;
+  margin-top: 0px;
+  margin-left: auto;
+  font-size: 20px;
+}
+.btns {
+  width: 83%;
+  margin: 0px;
+}
+input {
+  margin: 6px 72%;
+  width: 194px;
+  font-size: 17px;
+  border-radius: 2px;
+  margin-right: 0px;
+  height: 29px;
+  padding-left: 8px;
+  background-color: white;
+  border-radius: 4px;
+  border: 1px solid rgb(8, 62, 142);
+}
+.search {
+  margin: 6px 8px;
+  width: 100px;
+  font-size: 18px;
+  margin-right: 0px;
+  height: 33px;
+  border-radius: 5px;
+  border: none;
+  color: rgb(7, 8, 77);
+  border-right: 3px solid rgb(8, 62, 142);
+  border-bottom: 3px solid rgb(8, 62, 142);
+  cursor: pointer;
+  background-color: white;
+}
+.mainData {
+  margin: 10px 80px;
+}
+.userName {
+  margin: 30px 0px;
+  margin-bottom: 25px;
+  font-size: 30px;
+  font-weight: 500;
+  text-align: center;
+  color: rgb(7, 8, 77);
+}
+.card {
+  margin: 35px 29%;
+  border: 1px solid rgb(222, 220, 220);
+  border-top: 1px solid rgb(222, 220, 220);
+  border-left: 3px solid rgb(222, 220, 220);
+  border-right: 4px solid rgb(222, 220, 220);
+  border-radius: 6px;
+}
+.btn {
+  margin: 16px;
+  display: flex;
+  margin-left: 78%;
+}
+.edit {
+  width: 39px;
+  height: 30px;
+  font-size: 16px;
+  padding-top: 4px;
+  margin: 0px;
+  margin-right: 10px;
+  background-color: white;
+  border-radius: 3px;
+  color: rgb(3, 3, 215);
+  border: 1px solid blue;
+  border-bottom: 2px solid blue;
+  border-right: 2px solid blue;
+  cursor: pointer;
+}
+.delete {
+  margin: 0px;
+  width: 39px;
+  height: 30px;
+  font-size: 19px;
+  padding-top: 4px;
+  background-color: white;
+  border-radius: 3px;
+  color: rgb(229, 4, 4);
+  border: 1px solid red;
+  border-bottom: 2px solid red;
+  border-right: 2px solid red;
+  cursor: pointer;
+}
+/* .pic {
+  border: 1px solid black;
+  margin: 20px 40px;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  text-align: center;
+} */
+.user {
+  margin: 10px;
+  font-size: 75px;
+  color: #7a7d7e;
+  background-color: #bfbfbf;
+  border-radius: 50%;
+}
+.userDetails {
+  margin-top: 30px;
+}
+.detail {
+  margin: 0px 80px;
+  margin-top: 0px;
+  margin-bottom: 15px;
+  font-size: 18px;
+  text-align: left;
+  font-weight: 500;
+}
